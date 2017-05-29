@@ -1,0 +1,1 @@
+Необходимо подключить библиотеку FANN http://leenissen.dk/fann/wp/, включая также файлы из папки  FANN-2.2.0-Source\src (fann.c, floatfann.c...)
