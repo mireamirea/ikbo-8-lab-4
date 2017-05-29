@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "fann.h"
 #include "floatfann.c"
 
